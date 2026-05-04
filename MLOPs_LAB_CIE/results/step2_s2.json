@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "rackcool-cooling-power-kw-predictor",
+    "version": 10,
+    "run_id": "296c4eda54e64fce8058ab2e331628af",
+    "source_metric": "rmse",
+    "source_metric_value": 21.34067000513169
+}

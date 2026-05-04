@@ -1,0 +1,18 @@
+{
+    "experiment_name": "rackcool-cooling-power-kw",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 19.79111165450113,
+            "rmse": 21.34067000513169
+        },
+        {
+            "name": "GradientBoosting",
+            "mae": 24.24884755196495,
+            "rmse": 39.22165895392533
+        }
+    ],
+    "best_model": "LinearRegression",
+    "best_metric_name": "rmse",
+    "best_metric_value": 21.34067000513169
+}

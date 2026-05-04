@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "rackcool-cooling-power-kw-predictor",
+    "alias_name": "live",
+    "champion_version": 11,
+    "challenger_version": 11,
+    "action": "kept"
+}
